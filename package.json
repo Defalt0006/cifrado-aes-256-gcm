@@ -1,0 +1,9 @@
+{
+  "name": "demo-cifrado-aes",
+  "version": "1.0.0",
+  "description": "Ejemplo educativo de cifrado AES-256-GCM con Node.js",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js"
+  }
+}
